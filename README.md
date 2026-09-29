@@ -1,5 +1,4 @@
 # Python-Calculator
-# Python Calculator
 
 ## Description
 A simple calculator developed using Python.
